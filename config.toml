@@ -1,0 +1,18 @@
+baseURL = "http://michaelquinonez.com"
+languageCode = "en-us"
+title = "MQ"
+theme = "m10c"
+
+[params]
+    description = "Network Operations Specialist in the video game industry by day. Aspiring DevOps Engineer/SRE by night."
+    author = "MQ"
+
+[[params.social]]
+  name = "github"
+  url = "https://github.com/brobotic"
+
+[deployment]
+
+[[deployment.targets]]
+name = "awsdeploy"
+URL = "s3://michaelquinonez.com?region=us-west-2"
