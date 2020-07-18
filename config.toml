@@ -1,10 +1,10 @@
-baseURL = "http://michaelquinonez.com"
+baseURL = "https://michaelquinonez.com/"
 languageCode = "en-us"
 title = "MQ"
 theme = "m10c"
 
 [params]
-    description = "Network Operations Specialist in the video game industry by day. Aspiring DevOps Engineer/SRE by night."
+    description = "Network Operations Specialist in the video game industry by day. Aspiring SRE by night."
     author = "MQ"
 
 [[params.social]]
